@@ -1,0 +1,28 @@
+{
+    "subjects":
+    [
+        "The Holy Quran |||",
+        "Profession Practics",
+        "Operating Systen",
+        "English",
+        "Linear Algebra",
+        "Theory Of Automata"
+    ],
+    "subjectsDetail": {
+        "teacherName":
+         ["Hamed Sahib",
+         "Bazma Jhan Sahiba",
+         "Anim Sahiba",
+         "Ayesh Sahiba",
+         "Farzana Sahiba",
+         "Anim Sahiba"],
+         "timePeriod":[
+            "08:30am to 09:30am",
+            "09:30am to 10:30am",
+            "10:30am to 11:30am",
+            "11:30am to 12:30am",
+            "12:30pm to 01:30pm",
+            "01:30pm to 02:30pm"
+         ]
+    }
+}
